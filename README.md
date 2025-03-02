@@ -1,4 +1,4 @@
-# Projet 1 WCS
+# Mecaminia-WCS
 
 ## Mecamina - Gestion des performances et résolution de problèmes
 
