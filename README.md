@@ -2,8 +2,6 @@
 
 ## Mecamina - Gestion des performances et résolution de problèmes
 
-> **À noter :** Ceci est un exercice, rien ne fonctionnera - **NE PAS TÉLÉCHARGER**
-
 ---
 
 ## Description
