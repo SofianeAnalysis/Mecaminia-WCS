@@ -85,11 +85,6 @@ Mecamina est une solution d'analyse et d'optimisation pour une entreprise de e-c
 
 - Encours clients et chiffre d'affaires des commandes des deux derniers mois par pays.
 
----
-
-## Licence
-
-Ce projet est sous licence **MIT**.
 
 ---
 
